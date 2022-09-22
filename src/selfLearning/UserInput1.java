@@ -24,9 +24,9 @@ public class UserInput1 {
 	   
 	    
 	    
-	    System.out.println("Your Name is"+name);
+	    System.out.println("Your Name is "+name);
 	    System.out.println("You are "+age+" years old");
-	    System.out.println("Your Favourite color is"+color);
+	    System.out.println("Your Favourite color is "+color);
 		input1.close();
 		
 		
